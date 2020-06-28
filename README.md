@@ -3,7 +3,7 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 
 ## Práctica 1 - Algoritmo de búsqueda A*
 
-Interfaz de la aplicación
+Interfaz de la aplicación:
 ![Interfaz de la aplicación](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/1.PNG)
 
 **Enlaces:**
@@ -13,7 +13,7 @@ Interfaz de la aplicación
 
 ## Práctica 2 - Algoritmo recursivo ID3 y reglas
 
-Interfaz de la aplicación
+Interfaz de la aplicación:
 ![Interfaz de la aplicación](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/2.PNG)
 
 **Enlaces:**
