@@ -4,6 +4,7 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 ## Práctica 1 - Algoritmo de búsqueda A*
 
 Interfaz de la aplicación:
+
 ![Interfaz de la aplicación](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/1.PNG)
 
 **Enlaces:**
@@ -38,6 +39,7 @@ Se han realizado 3 prácticas voluntarias que consisten en:
 3 - Uso de red LSTM para la detección de acciones de movimientos
 
 Captura de la pantalla del móvil:
+
 ![Captura de la pantalla del móvil](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/4.PNG)
 
 **Enlace:**
