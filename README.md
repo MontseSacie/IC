@@ -15,6 +15,7 @@ Interfaz de la aplicación:
 ## Práctica 2 - Algoritmo recursivo ID3 y reglas
 
 Interfaz de la aplicación:
+
 ![Interfaz de la aplicación](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/2.PNG)
 
 **Enlaces:**
@@ -25,6 +26,7 @@ Interfaz de la aplicación:
 ## Práctica 3 - Algoritmos de clasificación: K-means, Bayes, Lloyd
 
 Interfaz de la aplicación:
+
 ![Interfaz de la aplicación](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/3.PNG)
 
 **Enlaces:**
