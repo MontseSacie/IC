@@ -46,6 +46,8 @@ Se han realizado 3 prácticas voluntarias que consisten en:
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practicas_voluntarias/memoria.pdf)
 
 ## Recursos utilizados para las prácticas
+- Lenguaje: Java, Entorno: Eclipse
 - Práctica 2: [Librería JGraph](https://github.com/jgraph/jgraphx)
 - Práctica 3: [Libería Jama](https://math.nist.gov/javanumerics/jama/) , [Documentación Jama](https://math.nist.gov/javanumerics/jama/doc/Jama/Matrix.html)
 - Prácticas voluntarias: Matlab móvil
+
