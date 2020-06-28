@@ -3,10 +3,8 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 
 ## Práctica 1 - Algoritmo de búsqueda A*
 <p align="center">
-  <img src="C:\Users\apunt\Pictures\1.PNG" width="350" title="Interfaz de la aplicación">
+  <img src="https://drive.google.com/drive/u/0/folders/1D2vJf8UhVQ6LiVtjh8X1UAbpkZoB9YKY" width="350" title="Interfaz de la aplicación">
 </p>
-
-![myimage-alt-tag](C:\Users\apunt\Pictures\1.PNG)
 
 **Enlaces:**
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practica_1/Memoria.pdf)
