@@ -3,9 +3,8 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 
 ## Práctica 1 - Algoritmo de búsqueda A*
 
-<p align="center">
-  <img src="https://drive.google.com/drive/u/0/folders/1D2vJf8UhVQ6LiVtjh8X1UAbpkZoB9YKY" width="350" title="Interfaz de la aplicación">
-</p>
+Interfaz de la aplicación
+![Interfaz de la aplicación](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/1.PNG)
 
 **Enlaces:**
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practica_1/Memoria.pdf)
@@ -14,9 +13,8 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 
 ## Práctica 2 - Algoritmo recursivo ID3 y reglas
 
-<p align="center">
-  <img src="C:\Users\apunt\Pictures\2.PNG" width="350" title="Interfaz de la aplicación">
-</p>
+Interfaz de la aplicación
+![Interfaz de la aplicación](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/2.PNG)
 
 **Enlaces:**
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practica_2/memoria.pdf)
@@ -25,9 +23,8 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 
 ## Práctica 3 - Algoritmos de clasificación: K-means, Bayes, Lloyd
 
-<p align="center">
-  <img src="C:\Users\apunt\Pictures\3.PNG" width="350" title="Interfaz de la aplicación">
-</p>
+Interfaz de la aplicación:
+![Interfaz de la aplicación](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/3.PNG)
 
 **Enlaces:**
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practica_3/memoria.pdf)
@@ -40,12 +37,10 @@ Se han realizado 3 prácticas voluntarias que consisten en:
 2 - Utilizar el algoritmo DeepDream con Alexnet para modificar una imagen y aplicarle efectos
 3 - Uso de red LSTM para la detección de acciones de movimientos
 
-<p align="center">
-  <img src="C:\Users\apunt\Pictures\4.PNG" width="350" title="Captura de la pantalla del móvil">
-</p>
+Captura de la pantalla del móvil:
+![Captura de la pantalla del móvil](https://github.com/MontseSacie/IC/blob/master/capturas_pantalla/4.PNG)
 
 **Enlace:**
-
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practicas_voluntarias/memoria.pdf)
 
 ## Recursos utilizados para las prácticas
