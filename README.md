@@ -2,6 +2,7 @@
 Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Grado en **Ingeniería del Software (UCM)**
 
 ## Práctica 1 - Algoritmo de búsqueda A*
+
 <p align="center">
   <img src="https://drive.google.com/drive/u/0/folders/1D2vJf8UhVQ6LiVtjh8X1UAbpkZoB9YKY" width="350" title="Interfaz de la aplicación">
 </p>
@@ -12,6 +13,7 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 - [video de la ejecución](https://drive.google.com/drive/u/0/folders/1XBb-pBv6u85FtfBNNLOW43NlJAmIJ2W1)
 
 ## Práctica 2 - Algoritmo recursivo ID3 y reglas
+
 <p align="center">
   <img src="C:\Users\apunt\Pictures\2.PNG" width="350" title="Interfaz de la aplicación">
 </p>
@@ -22,6 +24,7 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 - [video de la ejecución](https://drive.google.com/drive/u/0/folders/1XBb-pBv6u85FtfBNNLOW43NlJAmIJ2W1)
 
 ## Práctica 3 - Algoritmos de clasificación: K-means, Bayes, Lloyd
+
 <p align="center">
   <img src="C:\Users\apunt\Pictures\3.PNG" width="350" title="Interfaz de la aplicación">
 </p>
