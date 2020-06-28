@@ -6,6 +6,8 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
   <img src="C:\Users\apunt\Pictures\1.PNG" width="350" title="Interfaz de la aplicación">
 </p>
 
+![myimage-alt-tag](C:\Users\apunt\Pictures\1.PNG)
+
 **Enlaces:**
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practica_1/Memoria.pdf)
 - [código](https://github.com/MontseSacie/IC/tree/master/Practica_1/A_Estrella)
