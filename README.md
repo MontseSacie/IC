@@ -5,6 +5,7 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 <p align="center">
   <img src="C:\Users\apunt\Pictures\1.PNG" width="350" title="Interfaz de la aplicación">
 </p>
+
 **Enlaces:**
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practica_1/Memoria.pdf)
 - [código](https://github.com/MontseSacie/IC/tree/master/Practica_1/A_Estrella)
@@ -16,7 +17,6 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 </p>
 
 **Enlaces:**
-
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practica_2/memoria.pdf)
 - [código](https://github.com/MontseSacie/IC/tree/master/Practica_2/Id3)
 - [video de la ejecución](https://drive.google.com/drive/u/0/folders/1XBb-pBv6u85FtfBNNLOW43NlJAmIJ2W1)
@@ -27,7 +27,6 @@ Prácticas de la asignatura **Ingeniería del Conocimiento** de 4º año del Gra
 </p>
 
 **Enlaces:**
-
 - [Memoria](https://github.com/MontseSacie/IC/blob/master/Practica_3/memoria.pdf)
 - [código](https://github.com/MontseSacie/IC/tree/master/Practica_3/Algoritmos_clasificacion)
 - [video de la ejecución](https://drive.google.com/drive/u/0/folders/1XBb-pBv6u85FtfBNNLOW43NlJAmIJ2W1)
